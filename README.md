@@ -4,18 +4,25 @@
 
 ## 다운로드
 
-[최신 APK 다운로드](https://github.com/jamaica8612/yeona-math-adventure/releases/latest)
+[YeonaMathAdventure-v0.1.1.apk 바로 다운로드](https://github.com/jamaica8612/yeona-math-adventure/releases/download/v0.1.1/YeonaMathAdventure-v0.1.1.apk)
 
-현재 버전: `v0.1.0`
+[최신 버전 안내 페이지](https://github.com/jamaica8612/yeona-math-adventure/releases/latest)
 
-- 파일: `YeonaMathAdventure-debug.apk`
-- 크기: 260,683,376 bytes (248.61 MiB)
-- SHA-256: `6C30372BFDE67C121E948FB5208015977A07577327CA5AF51E761AFD62E7CD90`
+현재 버전: `v0.1.1`
+
+- 파일: `YeonaMathAdventure-v0.1.1.apk`
+- 크기: 147,359,681 bytes (140.53 MiB)
+- SHA-256: `5CDA764DEAD7B0CAF44A6B7EDB100C5821B9281492CD9DFDAE9D6ACF52FDE9C4`
 - Android 7.1(API 25) 이상
 - ARMv7 및 ARM64 지원
 - 가로 화면, 폰·태블릿 대응
 
-이 APK는 Google Play 배포용 서명이 아닌 Android 디버그 키로 서명된 첫 테스트 버전입니다.
+`v0.1.1`은 실제 기기에서 한국어 글자가 보이지 않던 `v0.1.0`의 TMP 폰트 생성 문제를
+수정했습니다. Pretendard 한글 글리프와 머티리얼을 빌드 전에 APK에 넣으며, 개발용 오류
+콘솔도 비활성화했습니다. 같은 패키지와 서명으로 `v0.1.0` 위에 업데이트 설치할 수 있어
+기존 로컬 학습 기록이 유지됩니다.
+
+이 APK는 Google Play 배포용 서명이 아닌 Android 디버그 키로 서명된 테스트 버전입니다.
 브라우저로 APK를 받은 뒤 Android의 안내에 따라 해당 브라우저 또는 파일 앱의
 `알 수 없는 앱 설치` 권한을 한 번 허용해야 할 수 있습니다.
 
